@@ -7,6 +7,6 @@ import cloudflare from "@astrojs/cloudflare";
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind(), vue()],
-  site: "https://aperium.butwm.space/",
-  base: ".",
+  site: "https://butwm.github.io",
+  base: "/Aperium",
 });
