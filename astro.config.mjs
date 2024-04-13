@@ -8,7 +8,7 @@ import cloudflare from "@astrojs/cloudflare";
 export default defineConfig({
   integrations: [tailwind(), vue()],
   site: "https://aperium.butwm.space/",
-  base: "/Aperium",
+  base: ".",
   output: "server",
   adapter: cloudflare()
 });
