@@ -8,5 +8,5 @@ import cloudflare from "@astrojs/cloudflare";
 export default defineConfig({
   integrations: [tailwind(), vue()],
   site: "https://butwm.github.io/",
-  base: ".",
+  base: "./dist",
 });
