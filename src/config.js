@@ -37,7 +37,7 @@ export default {
     CardBeginnerPriceCents: '.00',
 
     //Aperium Beginner Features
-    CardBeginnerFeature1: 'Up to 10 people.',
+    CardBeginnerFeature1: 'Networking.',
     CardBeginnerFeature2: 'Collect data.',
     CardBeginnerFeature3: 'Code extensibility.',
 
