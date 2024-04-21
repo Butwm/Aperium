@@ -1,4 +1,6 @@
-
+---
+import config from '../../config';
+---
 <div id="pricing" class="items-center mt-20 mb-[16rem] justify-center text-center  flex font-satoshi flex-col">
     <h2 class="text-xl font-black bg-gradient-to-r from-[#8b9ce1] via-[#a88aef] to-[#dc75fc] text-transparent bg-clip-text">Pricing</h2>
       <h1 class="mt-4 text-5xl font-bold text-white">How much it costs?</h1>
@@ -46,7 +48,7 @@
 
             <div class="mt-5 grid grid-cols-2 gap-x-4 py-4 first:pt-0 last:pb-0">
               <div class="flex justify-end">
-                <button type="button" class="py-4 p-10 inline-flex items-center gap-x-2 text-sm font-medium rounded-lg text-[10px] lg:text-[12px] border text-gray-400 transition-all ease-linear shadow-sm disabled:opacity-50 disabled:pointer-events-none bg-[#0d0d12] hover:text-white d:border duration-1000 border-gray-700 hover:border-[#E86DFC]/40 hover:bg-[#171720]">Start free trial</button>
+                <a href={config.pricingCardPremiumUrl} target="_blank" class="py-4 p-10 cursor-pointer inline-flex items-center gap-x-2 text-sm font-medium rounded-lg text-[10px] lg:text-[12px] border text-gray-400 transition-all ease-linear shadow-sm disabled:opacity-50 disabled:pointer-events-none bg-[#0d0d12] hover:text-white d:border duration-1000 border-gray-700 hover:border-[#E86DFC]/40 hover:bg-[#171720]">Start free trial</a>
               </div>
             </div>
           </div>
@@ -94,7 +96,7 @@
 
             <div class="mt-5 grid grid-cols-2 gap-x-4 py-4 first:pt-0 last:pb-0">
               <div class="flex justify-end">
-                <button type="button" class="py-4 p-10 text-[10px] lg:text-[12px] inline-flex items-center gap-x-2 text-sm font-medium rounded-lg border text-gray-400 transition-all ease-linear shadow-sm disabled:opacity-50 disabled:pointer-events-none bg-[#0d0d12] hover:text-white duration-1000 border-gray-700 hover:border-[#E86DFC]/40 hover:bg-[#171720]">Start free trial</button>
+                <a href={config.pricingCardLifetimeUrl} target="_blank" class="cursor-pointer py-4 p-10 text-[10px] lg:text-[12px] inline-flex items-center gap-x-2 text-sm font-medium rounded-lg border text-gray-400 transition-all ease-linear shadow-sm disabled:opacity-50 disabled:pointer-events-none bg-[#0d0d12] hover:text-white duration-1000 border-gray-700 hover:border-[#E86DFC]/40 hover:bg-[#171720]">Start free trial</a>
               </div>
             </div>
             <!-- End Card -->

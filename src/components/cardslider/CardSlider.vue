@@ -10,7 +10,7 @@
           body="Stoked For this!"
           image="https://cdn.discordapp.com/avatars/886919873693888523/59baad7d6f9dd40a68a26ed55fe37bbd?size=1024"
         /></ul>
-            <ul class="flex w-[260px]">
+            <ul class="w-[260px]">
         <Card 
           href="https://github.com/Butwm"
           title="Butwm"
@@ -26,7 +26,7 @@
           body="So excited for this!"
           image="https://framerusercontent.com/images/nv4BiIDU0mxJlQD7YTEV67CKv0.jpg?scale-down-to=1024"
         /></ul>
-        <ul class="w-[280px]">
+        <ul class="w-[260px]">
         <Card 
           href="#"
           title="Pavel Malaska"
