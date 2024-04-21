@@ -1,16 +1,21 @@
 ---
 import config from '../config';
----
 
+function handleClick(event) {
+	  event.preventDefault();
+	  const target = document.querySelector(event.target.hash);
+	  target.scrollIntoView({ behavior: 'smooth' });
+}
+---
 <nav 
   class="
 	z-10 
 	top-0 
-	fixed 
 	left-0 
 	right-0 
+	fixed
 
-	mb-12 
+	mb-16 
 	mt-8  
 	mx-2 
 	py-3 
@@ -45,7 +50,7 @@ import config from '../config';
 	<div id="navbar-collapse-with-animation" class="hs-collapse hidden overflow-hidden transition-color ease-linear duration-1000 basis-full grow md:block">
 		<div class="flex flex-col gap-y-4 gap-x-0 mt-5 md:flex-row md:items-center md:justify-end md:gap-y-0 md:gap-x-7 md:mt-0 md:ps-7">
 			<a class="font-medium text-[#d966eb] md:py-6" href="#hero" aria-current="page">Home</a>
-			<a class="transition-color ease-linear duration-200 font-medium md:py-6 text-gray-400 hover:text-gray-500" href="#our-program">How it Works</a>
+			<a class="transition-color ease-linear duration-200 font-medium md:py-6 text-gray-400 hover:text-gray-500" href="#our-program" OnClick={handleClick}>How it Works</a>
 			<a class="font-medium md:py-6 text-gray-400 hover:text-gray-500" href="#pricing">Pricing</a>
 			<a class="font-medium md:py-6 text-blue-500 hover:text-gray-500" href={config.discordlinkurl}>Discord</a>
 		</div>
@@ -59,3 +64,11 @@ import config from '../config';
 	</div>
 
 </nav>
+
+<script is:inline>
+	function handleClick(event) {
+	  event.preventDefault();
+	  const target = document.querySelector(event.target.hash);
+	  target.scrollIntoView({ behavior: 'smooth' });
+	}
+  </script>

@@ -33,8 +33,9 @@ export default {
     CardBeginnerButton: 'Start Free Trial',
     CardBeginnerText: 'Aperium Beginner',
     CardBeginnerDesc: 'Cancel at anytime.',
-    CardBeginnerPriceBig: '$20',
+    CardBeginnerPrice: '$20',
     CardBeginnerPriceCents: '.00',
+    CardBeginnerPriceVAT: '+ VAT / monthly',
 
     //Aperium Beginner Features
     CardBeginnerFeature1: 'Up to 10 people.',
@@ -46,8 +47,9 @@ export default {
     CardAdvanceButton: 'Start Free Trial',
     CardAdvanceText: 'Aperium Advance',
     CardAdvanceDesc: 'Cancel at anytime.',
-    CardAdvancePriceBig: '$200',
+    CardAdvancePrice: '$200',
     CardAdvancePriceCents: '.00',
+    CardAdvancePriceVAT: '+ VAT / monthly',
 
     //Aperium Advance Features
     CardAdvanceFeature1: 'Up to 10 people.',
