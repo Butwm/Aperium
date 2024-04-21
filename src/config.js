@@ -1,5 +1,5 @@
 //# For blank
-export default {
+export default { 
 
     // Hero
     HeroHeading: 'Your Future. Our Focus.',
@@ -68,3 +68,14 @@ export default {
     discordlinkurl: 'https://discord.gg/google',
     mailto: 'mailto:someone@example.com',
 };
+=======
+    pricingCardPremiumUrl: 'https://www.google.com',
+    pricingCardLifetimeUrl: 'https://www.google.com',
+    instagramlinkurl: 'https://www.instagram.com/aperium/',
+    discordlinkurl: 'https://discord.aperium.sk',
+    mailto: 'info@aperium.sk',
+    schedulemeetingurl: 'https://google.com/',
+    starthere: 'https://google.com',
+    onepercent: '#pricing',
+};
+>>>>>>> 861af20d443afe92b236e089755491af6e47ff93
