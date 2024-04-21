@@ -1,3 +1,7 @@
+---
+import config from '../config';
+---
+
 <nav 
   class="
 	z-10 
@@ -30,6 +34,7 @@
 	flex
 	items-center 
 	justify-center
+	scroll-smooth
 	"
 >
 
@@ -42,7 +47,7 @@
 			<a class="font-medium text-[#d966eb] md:py-6" href="#hero" aria-current="page">Home</a>
 			<a class="transition-color ease-linear duration-200 font-medium md:py-6 text-gray-400 hover:text-gray-500" href="#our-program">How it Works</a>
 			<a class="font-medium md:py-6 text-gray-400 hover:text-gray-500" href="#pricing">Pricing</a>
-			<a class="font-medium md:py-6 text-blue-500 hover:text-gray-500" href="#">Discord</a>
+			<a class="font-medium md:py-6 text-blue-500 hover:text-gray-500" href={config.discordlinkurl}>Discord</a>
 		</div>
 	</div>
 
