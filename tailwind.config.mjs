@@ -10,6 +10,9 @@ export default {
 				satoshi: ['Satoshi', 'sans-serif'],
 				inter: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
 			},
+			colors: {
+				'background': '#0d0d12',
+			}
 		},
 	},
 	plugins: [

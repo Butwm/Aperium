@@ -53,7 +53,7 @@ export default {
     CardAdvanceFeature1: '1:1 Mentoring',
     CardAdvanceFeature2: 'Discpline',
     CardAdvanceFeature3: 'Motivation',
-    CardAdvanceFeature3: 'side-hustle',
+    CardAdvanceFeature3: 'side-hus',
     
     // We are not as usual
     NotAsUsual: 'We are not as usual',

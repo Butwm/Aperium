@@ -16,8 +16,16 @@ import HeadSEO from '../components/HeadSEO.astro';
 	
 		  requestAnimationFrame(raf);
 		</script>
+		<script is:inline>
+			function handleClick(event) {
+			  event.preventDefault();
+			  const target = document.querySelector(event.target.hash);
+			  target.scrollIntoView({ behavior: 'smooth' });
+			}
+		  </script>
 	</head>
-	<body class="font-satoshi bg-[#0d0d12]	scroll-smooth">
+	<!-- Adjust color in tailwind.config.mjs -->
+	<body class="font-satoshi bg-background	scroll-smooth">
 		
 		<slot />
 	</body>
