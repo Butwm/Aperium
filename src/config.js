@@ -4,8 +4,8 @@ export default {
     // Hero
     HeroHeading: 'Your Future. Our Focus.',
     onepercenturl: '#pricing',
-    StartHereText: 'Start Here 🚀',
-    starthere: 'https://google.com',
+    StartHereText: 'Become a part of 1% 🚀',
+    starthere: '#pricing',
 
     // Our Program
     OurProgram: 'Our Program',
@@ -30,7 +30,7 @@ export default {
 
     // Aperium Beginner
     CardBeginnerUrl: 'https://www.google.com',
-    CardBeginnerButton: 'Start Free Trial',
+    CardBeginnerButton: 'Join Now',
     CardBeginnerText: 'Aperium Beginner',
     CardBeginnerDesc: 'Cancel at anytime.',
     CardBeginnerPriceBig: '$20',
@@ -42,29 +42,30 @@ export default {
     CardBeginnerFeature3: 'Code extensibility.',
 
     // Aperium Advance
-    CardAdvanceUrl: 'https://www.google.com',
-    CardAdvanceButton: 'Start Free Trial',
+    CardAdvanceUrl: '',
+    CardAdvanceButton: 'Join Now',
     CardAdvanceText: 'Aperium Advance',
     CardAdvanceDesc: 'Cancel at anytime.',
-    CardAdvancePriceBig: '$200',
+    CardAdvancePriceBig: '$50',
     CardAdvancePriceCents: '.00',
 
     //Aperium Advance Features
-    CardAdvanceFeature1: 'Up to 10 people.',
-    CardAdvanceFeature2: 'Collect data.',
-    CardAdvanceFeature3: 'Code extensibility.',
-
+    CardAdvanceFeature1: '1:1 Mentoring',
+    CardAdvanceFeature2: 'Discpline',
+    CardAdvanceFeature3: 'Motivation',
+    CardAdvanceFeature3: 'side-hustle',
+    
     // We are not as usual
     NotAsUsual: 'We are not as usual',
     NotAsUsualHeading: 'Not decided?',
     ScheduleMeetingText: 'Schedule a 15 min meeting',
-    schedulemeetingurl: 'https://google.com/',
+    schedulemeetingurl: 'https://calendly.com/aperium',
 
     // Footer
     FooterHeading: 'Aperium',
     FooterText: '© 2024 Aperium. All rights reserved.',
 
-    instagramlinkurl: 'https://www.instagram.com/google/',
-    discordlinkurl: 'https://discord.gg/google',
-    mailto: 'mailto:someone@example.com',
+    instagramlinkurl: 'https://www.instagram.com/aperium/',
+    discordlinkurl: 'https://discord.gg/6YAAycF248',
+    mailto: 'mailto:info@aperium.sk',
 }
