@@ -55,7 +55,7 @@ export default {
     CardAdvanceFeature1: '1:1 Mentoring',
     CardAdvanceFeature2: 'Discpline',
     CardAdvanceFeature3: 'Motivation',
-    CardAdvanceFeature3: 'side-husl',
+    CardAdvanceFeature3: 'side-husledddddd',
     
     // We are not as usual
     NotAsUsual: 'We are not as usual',
