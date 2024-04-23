@@ -30,31 +30,31 @@ export default {
 
     // Aperium Beginner
     CardBeginnerUrl: 'https://www.google.com',
-    CardBeginnerButton: 'Start Free Trial',
+    CardBeginnerButton: 'Join Now',
     CardBeginnerText: 'Aperium Beginner',
     CardBeginnerDesc: 'Cancel at anytime.',
-    CardBeginnerPrice: '$22',
-    CardBeginnerPriceCents: '.96',
+    CardBeginnerPrice: '$20',
+    CardBeginnerPriceCents: '.00',
     CardBeginnerPriceVAT: '+ VAT / monthly',
 
     //Aperium Beginner Features
-    CardBeginnerFeature1: 'Up to 10 people.',
-    CardBeginnerFeature2: 'Collect data.',
-    CardBeginnerFeature3: 'Code extensibility.',
+    CardBeginnerFeature1: 'Public Mentoring',
+    CardBeginnerFeature2: 'Networking',
+    CardBeginnerFeature3: 'Weekly live calls',
 
     // Aperium Advance
     CardAdvanceUrl: 'https://www.google.com',
-    CardAdvanceButton: 'Start Free Trial',
+    CardAdvanceButton: 'Join Now',
     CardAdvanceText: 'Aperium Advance',
     CardAdvanceDesc: 'Cancel at anytime.',
-    CardAdvancePrice: '$202',
-    CardAdvancePriceCents: '.99',
+    CardAdvancePrice: '$50',
+    CardAdvancePriceCents: '.00',
     CardAdvancePriceVAT: '+ VAT / monthly',
 
     //Aperium Advance Features
-    CardAdvanceFeature1: 'Up to 10 people.',
-    CardAdvanceFeature2: 'Collect data.',
-    CardAdvanceFeature3: 'Code extensibility.',
+    CardAdvanceFeature1: '1:1 Mentoring',
+    CardAdvanceFeature2: 'Premium Mentoring',
+    CardAdvanceFeature3: '2x Weekly private calls',
 
     // We are not as usual
     NotAsUsual: 'We are not as usual',
