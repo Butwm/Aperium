@@ -29,10 +29,10 @@ export default {
     PricingHeading: 'How much it costs?',
 
     // Aperium Beginner
-    CardBeginnerUrl: 'https://www.google.com',
+    CardBeginnerUrl: 'https://stripe.com',
     CardBeginnerButton: 'Join Now',
     CardBeginnerPriceVAT: '+ VAT included',
-    CardBeginnerText: 'Aperium Beginner',
+    CardBeginnerText: 'Digital Academy',
     CardBeginnerDesc: 'Cancel at anytime.',
     CardBeginnerPrice: '$20',
     CardBeginnerPriceCents: '.00',
@@ -46,7 +46,7 @@ export default {
     CardAdvanceUrl: '',
     CardAdvancePriceVAT: '+ VAT included',
     CardAdvanceButton: 'Join Now',
-    CardAdvanceText: 'Aperium Advance',
+    CardAdvanceText: 'Digital Academy',
     CardAdvanceDesc: 'Cancel at anytime.',
     CardAdvancePrice: '$50',
     CardAdvancePriceCents: '.00',
