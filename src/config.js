@@ -33,7 +33,7 @@ export default {
     CardBeginnerButton: 'Join Now',
     CardBeginnerText: 'Aperium Beginner',
     CardBeginnerDesc: 'Cancel at anytime.',
-    CardBeginnerPriceBig: '$20',
+    CardBeginnerPrice: '$20',
     CardBeginnerPriceCents: '.00',
 
     //Aperium Beginner Features
@@ -46,7 +46,7 @@ export default {
     CardAdvanceButton: 'Join Now',
     CardAdvanceText: 'Aperium Advance',
     CardAdvanceDesc: 'Cancel at anytime.',
-    CardAdvancePriceBig: '$50',
+    CardAdvancePrice: '$50',
     CardAdvancePriceCents: '.00',
 
     //Aperium Advance Features
