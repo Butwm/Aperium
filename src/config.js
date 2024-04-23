@@ -31,6 +31,7 @@ export default {
     // Aperium Beginner
     CardBeginnerUrl: 'https://www.google.com',
     CardBeginnerButton: 'Join Now',
+    CardBeginnerPriceVAT: '+ VAT included',
     CardBeginnerText: 'Aperium Beginner',
     CardBeginnerDesc: 'Cancel at anytime.',
     CardBeginnerPrice: '$20',
@@ -43,6 +44,7 @@ export default {
 
     // Aperium Advance
     CardAdvanceUrl: '',
+    CardAdvancePriceVAT: '+ VAT included',
     CardAdvanceButton: 'Join Now',
     CardAdvanceText: 'Aperium Advance',
     CardAdvanceDesc: 'Cancel at anytime.',
