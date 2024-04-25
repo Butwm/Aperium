@@ -41,6 +41,7 @@ export default {
     CardBeginnerFeature1: '1:1 Mentoring',
     CardBeginnerFeature2: 'Networking',
     CardBeginnerFeature3: 'More info',
+    CardBeginnerFeature3Url: 'https://discord.google.com',
 
     // Aperium Advance
     CardAdvanceUrl: 'https://buy.stripe.com/7sI6ouaXmgFB2527sx',
@@ -55,7 +56,7 @@ export default {
     CardAdvanceFeature1: '1:1 Mentoring',
     CardAdvanceFeature2: 'Networking',
     CardAdvanceFeature3: 'More info',
-    
+    CardAdvanceFeature3Url: 'https://discord.google.com',
     
     // We are not as usual
     NotAsUsual: 'We are not as usual',
