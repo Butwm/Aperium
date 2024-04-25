@@ -4,7 +4,7 @@ export default {
     // Hero
     HeroHeading: 'Your Future. Our Focus.',
     onepercenturl: '#pricing',
-    StartHereText: 'Become a part of 1% 🚀',
+    StartHereText: 'Become a part of 1%',
     starthere: '#pricing',
 
     // Our Program
@@ -16,10 +16,10 @@ export default {
     FirstCardDesc: 'Join our discord where everything starts',
     
     SecondCardTitle: 'Join Free Calls',
-    SecondCardDesc: 'Every Week we have 1-2 Calls about Business.',
+    SecondCardDesc: 'Every Week we have 1-2 Calls about Business and more.',
 
-    ThirdCardTitle: 'Watch Our Videos',
-    ThirdCardDesc: 'Watch our Mentor-ship Videos.',
+    ThirdCardTitle: '1:1 Mentoring',
+    ThirdCardDesc: 'we will work with you through 1:1 mentoring.',
 
     FourthCardTitle: 'Send Your Results',
     FourthCardDesc: 'Send your results to our Discord Channel.',
@@ -29,33 +29,33 @@ export default {
     PricingHeading: 'How much it costs?',
 
     // Aperium Beginner
-    CardBeginnerUrl: 'https://stripe.com',
+    CardBeginnerUrl: 'https://buy.stripe.com/dR6bIO0iI895eRO5kq',
     CardBeginnerButton: 'Join Now',
-    CardBeginnerPriceVAT: '+ VAT included',
-    CardBeginnerText: 'Digital Academy',
+    CardBeginnerPriceVAT: '+ VAT / monthly',
+    CardBeginnerText: 'Beginner Level',
     CardBeginnerDesc: 'Cancel at anytime.',
     CardBeginnerPrice: '$20',
     CardBeginnerPriceCents: '.00',
 
     //Aperium Beginner Features
-    CardBeginnerFeature1: 'Networking.',
-    CardBeginnerFeature2: 'Collect data.',
-    CardBeginnerFeature3: 'Code extensibility.',
+    CardBeginnerFeature1: '1:1 Mentoring',
+    CardBeginnerFeature2: 'Networking',
+    CardBeginnerFeature3: 'More info',
 
     // Aperium Advance
-    CardAdvanceUrl: '',
-    CardAdvancePriceVAT: '+ VAT included',
+    CardAdvanceUrl: 'https://buy.stripe.com/7sI6ouaXmgFB2527sx',
+    CardAdvancePriceVAT: '+ VAT / monthly',
     CardAdvanceButton: 'Join Now',
-    CardAdvanceText: 'Digital Academy',
+    CardAdvanceText: 'Advance Level',
     CardAdvanceDesc: 'Cancel at anytime.',
     CardAdvancePrice: '$50',
     CardAdvancePriceCents: '.00',
 
     //Aperium Advance Features
     CardAdvanceFeature1: '1:1 Mentoring',
-    CardAdvanceFeature2: 'Discpline',
-    CardAdvanceFeature3: 'Motivation',
-    CardAdvanceFeature3: 'side-husledddddd',
+    CardAdvanceFeature2: 'Networking',
+    CardAdvanceFeature3: 'More info',
+    
     
     // We are not as usual
     NotAsUsual: 'We are not as usual',
