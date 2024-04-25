@@ -6,5 +6,5 @@ import vue from "@astrojs/vue";
 export default defineConfig({
   integrations: [tailwind(), vue()],
   site: "https://aperium.butwm.space/",
-  base: ".",
+  base: "./",
 });
