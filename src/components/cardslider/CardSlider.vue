@@ -8,7 +8,7 @@
           title="Daniel Kopa"
           role="CEO and Founder"
           body="Stoked For this!"
-          image="https://cdn.discordapp.com/avatars/886919873693888523/59baad7d6f9dd40a68a26ed55fe37bbd?size=1024"
+          image="https://cdn.discordapp.com/avatars/886919873693888523/dd42182192cc6678ad6a5f4495a03920.webp?size=128"
         /></ul>
             <ul class="w-[260px]">
         <Card 
