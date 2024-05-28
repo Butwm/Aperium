@@ -4,7 +4,7 @@ export default {
     // Hero
     HeroHeading: 'Your Future. Our Focus.',
     onepercenturl: '#pricing',
-    StartHereText: 'Become a part of 1%',
+    StartHereText: 'Start Your Plan Today',
     starthere: '#pricing',
 
     // Our Program
@@ -13,13 +13,13 @@ export default {
 
     // Cards inside how it works
     FirstCardTitle: 'Join Discord',
-    FirstCardDesc: 'Join our discord where everything starts',
+    FirstCardDesc: 'Client need to Join our discord where everything starts.',
     
-    SecondCardTitle: 'Join Free Calls',
-    SecondCardDesc: 'Every Week we have 1-2 Calls about Business and more.',
+    SecondCardTitle: 'Calls With Client',
+    SecondCardDesc: 'With every client we have 1-2 Calls about his Business and more.',
 
     ThirdCardTitle: '1:1 Mentoring',
-    ThirdCardDesc: 'we will work with you through 1:1 mentoring.',
+    ThirdCardDesc: 'We will work with you through 1:1 mentoring.',
 
     FourthCardTitle: 'Send Your Results',
     FourthCardDesc: 'Send your results to our Discord Channel.',

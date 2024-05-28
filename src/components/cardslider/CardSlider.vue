@@ -6,8 +6,8 @@
         <Card 
           href="https://instagram.com/ethkopa"
           title="Daniel Kopa"
-          role="CEO and Founder"
-          body="Stoked For this!"
+          role="Ceo Of Aperium"
+          body="Working years on it!"
           image="https://cdn.discordapp.com/avatars/886919873693888523/dd42182192cc6678ad6a5f4495a03920.webp?size=128"
         /></ul>
             <ul class="w-[260px]">
@@ -15,14 +15,14 @@
           href="https://github.com/Butwm"
           title="Butwm"
           role="Developer"
-          body=""
+          body="Devoloper For Aperium"
           image="https://cdn.discordapp.com/avatars/795996972758204426/1fedd8ab05818df52c73fc621bb8f816?size=1024"
         /> </ul>
             <ul class="w-[260px]">
         <Card 
           href="#"
           title="Matus Kazik"
-          role="CEO"
+          role="Ceo Manger"
           body="So excited for this!"
           image="https://framerusercontent.com/images/nv4BiIDU0mxJlQD7YTEV67CKv0.jpg?scale-down-to=1024"
         /></ul>

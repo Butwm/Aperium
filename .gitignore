@@ -22,3 +22,10 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+dist/index.html
+dist/index.html
+src/components/cardslider/CardSlider.vue
+src/components/sections/footer.astro
+src/components/sections/Hero.astro
+src/config.js
+*.astro
