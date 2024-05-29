@@ -38,8 +38,8 @@ export default {
     CardBeginnerPriceCents: '.00',
 
     //Aperium Beginner Features
-    CardBeginnerFeature1: '1:1 Mentoring',
-    CardBeginnerFeature2: 'Networking',
+    CardBeginnerFeature1: 'Class Mentoring',
+    CardBeginnerFeature2: 'Basic algorithm',
     CardBeginnerFeature3: 'More info',
     CardBeginnerFeature3Url: 'https://discord.aperium.sk',
 
@@ -54,7 +54,7 @@ export default {
 
     //Aperium Advance Features
     CardAdvanceFeature1: '1:1 Mentoring',
-    CardAdvanceFeature2: 'Networking',
+    CardAdvanceFeature2: 'Advance algorithm',
     CardAdvanceFeature3: 'More info',
     CardAdvanceFeature3Url: 'https://discord.aperium.sk',
     
