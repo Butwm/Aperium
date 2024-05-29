@@ -65,7 +65,7 @@ export default {
     schedulemeetingurl: 'https://calendly.com/aperium',
 
     // Footer
-    FooterHeading: 'Aperium',
+    FooterHeading: '© 2024 Aperium. All rights reserved.',
     FooterText: '© 2024 Aperium. All rights reserved.',
 
     instagramlinkurl: 'https://www.instagram.com/aperium/',
