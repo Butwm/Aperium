@@ -7,51 +7,6 @@ import config from '../../config';
       <h1 class="mt-4 text-4xl md:text-5xl font-bold text-white">{config.PricingHeading}</h1>
         <div class="mt-16 flex justify-center items-center flex-wrap z-0">
         <!--Aperium Beginner card-->
-        <div class="px-4 relative z-10 w-[430px] h-[440px] lg:mr-12 mb-10 md:mb-0 border-gray-700 border rounded-xl md:p-10 bg-[#0d0d12]">
-            <h3 class="text-xl font-bold text-gray-200 mt-6 md:mt-0">{config.CardBeginnerText}</h3>
-                <p class="text-[13px] text-gray-500">{config.CardBeginnerDesc}</p>
-            <div class="mt-5">
-              <span class="text-6xl font-bold text-gray-200">{config.CardBeginnerPrice}</span>
-              <span class="text-lg font-bold text-gray-200">{config.CardBeginnerPriceCents}</span>
-              <span class="ms-3 text-gray-500">{config.CardBeginnerPriceVAT}</span>
-            </div>
-            <div class="mt-5 grid sm:grid-cols-2 gap-y-2 py-4 first:pt-0 last:pb-0 sm:gap-x-6 sm:gap-y-0">
-              <ul class="space-y-2 text-sm sm:text-base">
-                <li class="flex space-x-3">
-                  <span class="mt-0.5 size-5 flex justify-center items-center rounded-full border border-gray-700/30 text-[#0CA2F2]">
-                    <svg class="flex-shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
-                  </span>
-                  <span class=" text-gray-200 text-sm">
-                    {config.CardBeginnerFeature1}
-                  </span>
-                </li>
-
-                <li class="flex space-x-3">
-                  <span class="mt-0.5 size-5 flex justify-center items-center rounded-full border border-gray-700/30 text-[#0CA2F2]">
-                    <svg class="flex-shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
-                  </span>
-                  <span class=" text-gray-200 text-sm">
-                    {config.CardBeginnerFeature2}
-                  </span>
-                </li>
-
-                <li class="flex space-x-3">
-                  <span class="mt-0.5 size-5 flex justify-center items-center rounded-full border border-gray-700/30 text-[#0CA2F2]">
-                    <svg class="flex-shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
-                  </span>
-                  <a class="text-gray-200 text-sm underline-offset-4 underline" href={config.CardBeginnerFeature3Url} target="_blank">
-                    {config.CardBeginnerFeature3}
-                  </a>
-                </li>
-              </ul>
-            </div>
-
-            <div class="mt-5 grid grid-cols-2 gap-x-4 py-4 first:pt-0 last:pb-0">
-              <div class="flex justify-end">
-                <a href={config.CardBeginnerUrl} target="_blank" class="py-4 p-10 cursor-pointer mb-6 md:mb-0 md:ml-0 ml-4 inline-flex items-center gap-x-2 text-sm font-medium rounded-lg text-[10px] lg:text-[12px] border text-gray-400 transition-all ease-linear shadow-sm disabled:opacity-50 disabled:pointer-events-none bg-[#0d0d12] hover:text-white d:border duration-1000 border-gray-700 hover:border-[#E86DFC]/40 hover:bg-[#171720]">{config.CardBeginnerButton}</a>
-              </div>
-            </div>
-          </div>
           <!-- End Card -->
         <!--Aperium Advance card-->
         <div class="px-4 relative z-10 w-[430px] h-[440px] border-gray-700 border rounded-xl md:p-10 bg-[#0d0d12]">
@@ -100,6 +55,8 @@ import config from '../../config';
                 <a href={config.CardAdvanceUrl} target="_blank" class="cursor-pointer py-4 mb-6 md:mb-0 md:ml-0 ml-4 p-10 text-[10px] lg:text-[12px] inline-flex items-center gap-x-2 text-sm font-medium rounded-lg border text-gray-400 transition-all ease-linear shadow-sm disabled:opacity-50 disabled:pointer-events-none bg-[#0d0d12] hover:text-white duration-1000 border-gray-700 hover:border-[#E86DFC]/40 hover:bg-[#171720]">{config.CardAdvanceButton}</a>
               </div>
             </div>
+
+            
             <!-- End Card -->
           </div>
       </div>
