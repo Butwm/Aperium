@@ -14,7 +14,7 @@
         <Card 
           href="https://github.com/Butwm"
           title="Butwm"
-          role="Developer"
+          role="Marketing Developer"
           body="Devoloper For Aperium"
           image="https://cdn.discordapp.com/avatars/795996972758204426/1fedd8ab05818df52c73fc621bb8f816?size=1024"
         /> </ul>
@@ -22,7 +22,7 @@
         <Card 
           href="#"
           title="Matus Kazik"
-          role="Ceo Manger"
+          role="Sales manager"
           body="So excited for this!"
           image="https://framerusercontent.com/images/nv4BiIDU0mxJlQD7YTEV67CKv0.jpg?scale-down-to=1024"
         /></ul>
@@ -30,7 +30,7 @@
         <Card 
           href="#"
           title="Pavel Malaska"
-          role="Manager"
+          role="Sfc Expert"
           body="Can't wait for the open!"
           image="https://cdn.discordapp.com/avatars/573928034818588703/f6766e597447c7cced6dd95fd0e5d692?size=1024"
         />
