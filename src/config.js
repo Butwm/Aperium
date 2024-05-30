@@ -38,8 +38,8 @@ export default {
     CardAdvancePriceCents: '??',
 
     //Aperium Advance Features
-    CardAdvanceFeature1: 'Ads Analystic',
-    CardAdvanceFeature2: 'Sfc Campaign',
+    CardAdvanceFeature1: 'Grow your Socials',
+    CardAdvanceFeature2: 'Sales Organisation',
     CardAdvanceFeature3: 'More info',
     CardAdvanceFeature3Url: 'https://calendly.com/aperium/15-min-call-free-to-ask?back=1&month=2024-05',
     
