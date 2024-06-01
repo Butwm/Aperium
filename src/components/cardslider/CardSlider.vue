@@ -24,14 +24,14 @@
           title="Michal Kubiena"
           role="CEO/CMO"
           body="So excited for this!"
-          image="https://framerusercontent.com/images/nv4BiIDU0mxJlQD7YTEV67CKv0.jpg?scale-down-to=1024"
+          image=""
         /></ul>
         <ul class="w-[260px]">
         <Card 
           href="#"
-          title="Looking For SFC EXPERT"
-          role="SOON"
-          body="Can't wait for the open!"
+          title="LOOKING FOR SFC EXPERT"
+          role=""
+          body=""
           image=""
         />
         </ul>     

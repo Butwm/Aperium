@@ -44,10 +44,8 @@ export default {
     CardAdvanceFeature3Url: 'https://calendly.com/aperium/15-min-call-free-to-ask?back=1&month=2024-05',
     
     // We are not as usual
-    NotAsUsual: 'We are not as usual',
-    NotAsUsualHeading: 'Not decided?',
-    ScheduleMeetingText: 'Schedule a 15 min meeting',
-    schedulemeetingurl: 'https://calendly.com/aperium/15-min-call-free-to-ask?back=1&month=2024-05',
+    NotAsUsual: 'Our Clients',
+
 
     // Footer
     FooterHeading: '© 2024 Aperium. All rights reserved.',
