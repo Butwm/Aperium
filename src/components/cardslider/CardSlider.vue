@@ -21,18 +21,18 @@
             <ul class="w-[260px]">
         <Card 
           href="#"
-          title="Matus Kazik"
-          role="Sales manager"
+          title="Michal Kubiena"
+          role="CEO/CMO"
           body="So excited for this!"
           image="https://framerusercontent.com/images/nv4BiIDU0mxJlQD7YTEV67CKv0.jpg?scale-down-to=1024"
         /></ul>
         <ul class="w-[260px]">
         <Card 
           href="#"
-          title="Pavel Malaska"
-          role="Sfc Expert"
+          title="Looking For SFC EXPERT"
+          role="SOON"
           body="Can't wait for the open!"
-          image="https://cdn.discordapp.com/avatars/573928034818588703/f6766e597447c7cced6dd95fd0e5d692?size=1024"
+          image=""
         />
         </ul>     
         </li>
