@@ -24,7 +24,7 @@
           title="Michal Kubiena"
           role="CEO/CMO"
           body="So excited for this!"
-          image=""
+          image="https://media.discordapp.net/attachments/1246548590470500433/1246760629495136266/IMG_6400.png?ex=665d8fd1&is=665c3e51&hm=98c528cd92af30c805b76a329ed80bfab649d1f6e97cc71abfb04e7cbc12f495&=&format=webp&quality=lossless&width=586&height=1268"
         /></ul>
         <ul class="w-[260px]">
         <Card 
