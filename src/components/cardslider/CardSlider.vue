@@ -7,7 +7,7 @@
           href="https://instagram.com/ethkopa"
           title="Daniel Kopa"
           role="CEO/CSO"
-          body="Founder of Aperium"
+          body=""
           image="https://cdn.discordapp.com/avatars/886919873693888523/dd42182192cc6678ad6a5f4495a03920.webp?size=128"
         /></ul>
             <ul class="w-[260px]">
@@ -15,7 +15,7 @@
           href="https://github.com/Butwm"
           title="Butwm"
           role="Marketing devoloper"
-          body="Devoloper For Aperium"
+          body=""
           image="https://cdn.discordapp.com/avatars/795996972758204426/1fedd8ab05818df52c73fc621bb8f816?size=1024"
         /> </ul>
             <ul class="w-[260px]">
@@ -23,15 +23,15 @@
           href="#"
           title="Michal Kubiena"
           role="CEO/CMO"
-          body="Marketing Officer"
-          image="https://media.discordapp.net/attachments/1246548590470500433/1246760629495136266/IMG_6400.png?ex=665d8fd1&is=665c3e51&hm=98c528cd92af30c805b76a329ed80bfab649d1f6e97cc71abfb04e7cbc12f495&=&format=webp&quality=lossless&width=586&height=1268"
+          body=""
+          image=""
         /></ul>
         <ul class="w-[260px]">
         <Card 
           href="#"
-          title="Tobias"
+          title="Tobias Srb"
           role="SMM/SFC"
-          body="Social Media Manager"
+          body=""
           image=""
         />
         </ul>     
