@@ -13,16 +13,16 @@ export default {
 
     // Cards inside how it works
     FirstCardTitle: 'Introductory Meeting',
-    FirstCardDesc: 'More Info Soon',
+    FirstCardDesc: 'Meeting to discuss the clients business goals and plans.',
     
     SecondCardTitle: 'Summary',
-    SecondCardDesc: 'More Info Soon',
+    SecondCardDesc: 'Reviewed project status, set goals, discussed strategies.',
 
     ThirdCardTitle: 'Pricing Proposal',
-    ThirdCardDesc: 'More Info Soon',
+    ThirdCardDesc: 'Reviewed project scope, client-set pricing, payment terms.',
 
     FourthCardTitle: 'Collaboration',
-    FourthCardDesc: 'More Info Soon',
+    FourthCardDesc: 'We collaborate to social media grow and streamline sales.',
 
     // Pricing
     Pricing: 'Pricing',
