@@ -22,7 +22,7 @@
         <Card 
           href="#"
           title="Michal Kubiena"
-          role="CEO/CMO"
+          role="SFC/CMO"
           body=""
           image=""
         /></ul>
